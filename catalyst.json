@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "auth"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
